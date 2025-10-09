@@ -1,5 +1,14 @@
 # Colorful Roundcube Skins based off Larry
 
+[![Packagist Downloads](https://img.shields.io/packagist/dt/texxasrulez/plata-larry?style=plastic&logo=packagist&logoColor=white&label=Downloads&labelColor=blue&color=gold)](https://packagist.org/packages/texxasrulez/plata-larry)
+[![Packagist Version](https://img.shields.io/packagist/v/texxasrulez/plata-larry?style=plastic&logo=packagist&logoColor=white&label=Version&labelColor=blue&color=limegreen)](https://packagist.org/packages/texxasrulez/plata-larry)
+[![Github License](https://img.shields.io/github/license/texxasrulez/plata-larry?style=plastic&logo=github&label=License&labelColor=blue&color=coral)](https://github.com/texxasrulez/plata-larry/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/texxasrulez/plata-larry?style=plastic&logo=github&label=Stars&labelColor=blue&color=deepskyblue)](https://github.com/texxasrulez/plata-larry/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/texxasrulez/plata-larry?style=plastic&logo=github&label=Issues&labelColor=blue&color=aqua)](https://github.com/texxasrulez/plata-larry/issues)
+[![GitHub Contributors](https://img.shields.io/github/contributors/texxasrulez/plata-larry?style=plastic&logo=github&logoColor=white&label=Contributors&labelColor=blue&color=orchid)](https://github.com/texxasrulez/plata-larry/graphs/contributors)
+[![GitHub Forks](https://img.shields.io/github/forks/texxasrulez/plata-larry?style=plastic&logo=github&logoColor=white&label=Forks&labelColor=blue&color=darkorange)](https://github.com/texxasrulez/plata-larry/forks)
+[![Donate Paypal](https://img.shields.io/badge/Paypal-Money_Please!-blue.svg?style=plastic&labelColor=blue&color=forestgreen&logo=paypal)](https://www.paypal.me/texxasrulez)
+
 ## Compatible with Roundcube 1.6	
 
 **Major Changes since 07/06/2020**
